@@ -8,10 +8,12 @@ Backend/Data engineer. Building practical automation and ML-oriented tooling.
 - Applied AI tooling
 
 ## Active repositories
-- [hh_auto_apply](https://github.com/AdamLatyrov/hh_auto_apply)
+- [hh-auto-apply-archive](https://github.com/AdamLatyrov/hh-auto-apply-archive)
 - [AI-Helper](https://github.com/AdamLatyrov/AI-Helper)
-- [EducationProj](https://github.com/AdamLatyrov/EducationProj)
 - [RoniBlade](https://github.com/AdamLatyrov/RoniBlade)
 
 ## Contact
 - Telegram: @adamlatyrov
+## Resume
+- [CV](https://github.com/AdamLatyrov/CV)
+- [CV-Resume](https://github.com/AdamLatyrov/CV-Resume)
