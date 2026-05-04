@@ -29,7 +29,8 @@ Java backend-разработчик с опытом около 6 лет в enter
 ## Stack
 Java 11, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, SQL, Kafka, REST API, WebSocket, Liquibase, Maven, Gradle, Git, JUnit, Mockito, Docker, Linux, Grafana, Prometheus, Python, Apache Airflow, PL/pgSQL, Metabase, WebAuthn, Okta, Spring Data, Spring Framework, Spring Web, IDM
 
-## Education`r`nОконченное высшее, НИЯУ МИФИ, ИФТЭБ, 2026
+## Education
+Оконченное высшее, НИЯУ МИФИ, ИФТЭБ, 2026
 
 ## Contact
 - +7 (964) 027-71-09
