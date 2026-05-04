@@ -1,16 +1,17 @@
-## Hi there 👋
+# Adam Latyrov
 
-<!--
-**AdamLatyrov/AdamLatyrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend/Data engineer. Building practical automation and ML-oriented tooling.
 
-Here are some ideas to get you started:
+## Focus
+- Backend services (Python, Node.js)
+- Data pipelines and monitoring
+- Applied AI tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Active repositories
+- [hh_auto_apply](https://github.com/AdamLatyrov/hh_auto_apply)
+- [AI-Helper](https://github.com/AdamLatyrov/AI-Helper)
+- [EducationProj](https://github.com/AdamLatyrov/EducationProj)
+- [RoniBlade](https://github.com/AdamLatyrov/RoniBlade)
+
+## Contact
+- Telegram: @adamlatyrov
