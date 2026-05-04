@@ -1,25 +1,45 @@
 # Adam Latyrov
 
-Software engineer focused on automation, backend services, and data/ML tooling.
+Java backend engineer focused on Spring, PostgreSQL, Kafka, backend integrations, access control, audit, and data pipelines.
 
 ## Summary
-- Build practical automation and backend systems.
-- Work with Python, JavaScript/TypeScript, APIs, and data workflows.
+- 6+ years in enterprise backend systems
+- Strong in Java, Spring Boot, PostgreSQL, Kafka, ETL, and observability
+- Looking for hands-on senior backend work
 
-## Skills
-- Python
-- Node.js / JavaScript / TypeScript
-- Backend APIs
-- Automation
-- Monitoring
-- AI tooling
+## Experience
+### GLT (Green Light Technology) - 2025 to present
+- Backend modules for IDM platform: audit, requests, access control, notifications
+- Audit-log processing with flat model conversion, multithreading, and history migration
+- Unified requests and approvals API across process and audit sources
+- Email notification traceability and RBAC work
+- Backend for an AI chatbot and RAG-based response system
+- WebSocket transport for real-time interaction
 
-## Selected Projects
-- [HH-AutoReply-Archive](https://github.com/AdamLatyrov/HH-AutoReply-Archive) - archived legacy HH auto-reply project
-- [AI-Helper](https://github.com/AdamLatyrov/AI-Helper)
-- [RoniBlade](https://github.com/AdamLatyrov/RoniBlade)
-- [ml-service](https://github.com/AdamLatyrov/ml-service)
-- [s1s2-monitoring](https://github.com/AdamLatyrov/s1s2-monitoring)
+### Tedo - 2023 to 2025
+- Backend for a BI platform based on Metabase
+- WebAuthn and Okta integration
+- Java and Spring microservices
+- ETL pipelines, incremental loads, retries, and data normalization
+- Python scripts and Airflow DAGs for scheduled loads and maintenance
+- PostgreSQL, SQL Server, Kafka, Grafana, Prometheus
 
-## Contact
-- Telegram: @adamlatyrov
+### FlexLab - 2020 to 2023
+- Backend and integration layer for a noninvasive glucometer in a medical platform
+- Device communication and server-side medical data processing
+- Backend API and server components for patient data routing
+- Multithreaded processing and backend optimization
+
+## Stack
+Java 11+, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, Kafka, REST API, WebSocket, Liquibase, Maven, Gradle, Git, JUnit, Mockito, Docker, Linux, Grafana, Prometheus, Python, Apache Airflow, PL/pgSQL, Metabase, WebAuthn, Okta
+
+## Education
+National Research Nuclear University MEPhI - unfinished higher education
+
+## Courses
+- Spring Framework for Java applications - 2024
+- Enterprise Java applications - 2022
+
+## Languages
+- Russian - native
+- English - B2
